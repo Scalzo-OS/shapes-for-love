@@ -4,6 +4,6 @@
 
 Shapes available:
 
-**bevelled square**
+**rounded square**
 
 thats it lol
