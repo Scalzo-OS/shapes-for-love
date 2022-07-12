@@ -3,6 +3,7 @@
 
 
 Shapes available:
-**bezelled square**
+
+**bevelled square**
 
 thats it lol
